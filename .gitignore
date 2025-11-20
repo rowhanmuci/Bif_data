@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+env/
+venv/
+*.env
+
+# OS junk
+.DS_Store
+
+# Model weights / large binary files
+*.pt
+*.pth
+
+# Jupyter checkpoints (如果你有 notebook)
+.ipynb_checkpoints/
+
+# Logs
+*.log
